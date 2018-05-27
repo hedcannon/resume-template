@@ -1,12 +1,13 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
+# Writer Tools
+- skill: Tools (years)
+  description: Madcap Flare (7), Word (15+), Visio (15+), FrameMaker (10+),Acrobat (10+),RoboHelp (10+),HTML (7),Captivate (5),CorelDraw (7), Photoshop (7), SharePoint (4), TeamPage (Administrator) (2), UNIX (10+), SQL queries (10+), Requisite Pro (1), Excel (14), Powerpoint (14), Javascript (3), CSS (10+), CVS, Starteam, Visual SourceSafe, CM Synergy, SVN (6), XMLSpy (2), Dreamweaver (2), Illustrator (2), JIRA  (7), Confluence  (7),  SoapUI (2), Git command line (2), SourceTree, Toad, RAML, .Net Webservice Studio, Enterprise Architect, Bizagi, Team Foundation Server (TFS), Framescript, Doxygen, Oxygen
+# Subject Matter
+- skill: Documentation Types and Subjects (years)
+  description: UX Guides, System Architecture, Operations Guides, Data Dictionaries, Demos, process models, UAT, SOAP APIs (10+), REST APIs (7+), RAML (2),
+# Dev Processes
+- skill: Development/Documentation Processes
+  description: Agile (7), Waterfall (10+), SDLC (7), DITA
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Team Leadership
+  description: Team Lead, Documentation product owner, Project Manager
