@@ -10,14 +10,14 @@
 - company: Ooyala Inc
   position: Sr Technical Writer, Texas Office
   location: Frisco, TX
-  duration:  Dec. 2016 &mdash; Mar 2017
+  duration:  Dec 2016 &mdash; Mar 2017
   summary: Ooyala delivers a comprehensive suite of video workflow, publishing, analytics and advertising products via personalized delivery of streaming audio, video, and other media over the Internet.<p><p>As the only on-site writer in Dallas on a large globally located Documentation team in an Agile environment, used Drupal, Oxygen, Word, Git, and JIRA to create user and development documentation for the live streaming-VOD platform that merged the capabilities of Azure, Elemental, and Akamai applications for ingestion, transcoding, repackaging, and CDN. Wrote architecture and user documentation for Facebook, Twitch, and Periscope syndication. Wrote in-house documentation for the FTP ingestion/transcoding interface.
 
 # Farm Credit Bank
 - company: Farm Credit Bank of Texas
   position: Sr Business Analyst
   location: Austin, TX
-  duration:   May, 2016  &mdash; Oct 2016
+  duration: May, 2016  &mdash; Oct 2016
   summary: Farm Credit Bank of Texas is a non-profit providing technical services to banking associates.<p><p>Performed business analysis and process modeling for infrastructure and legacy conversion projects. Used Enterprise Architect and Bizagi to create BPMN 2.0 diagrams. Used Microsoft TFS and SharePoint to maintain SDLC process documentation. Used Excel to create test cases. Used Word to create requirements and specification documentation.
 
 # Mozido
@@ -66,12 +66,26 @@
 - company: Pervasive Software
   position: Senior Technical Writer
   location: Austin, TX
-  duration: MAR 2005 &mdash; Jun 2005
+  duration: Mar 2005 &mdash; Jun 2005
   summary: Used FrameMaker to develop user guides for Pervasive.SQL database administration applications.
 
 # Verisign
 - company: Verisign
   position: Senior Technical Writer
-  location: Savanah, GA
+  location: Savannah, GA
   duration: Oct 2004 &mdash; Mar 2006
   summary: Used RoboHelp to document a massive web-based cellular phone billing and reporting application for inventory and network usage. Used Captivate to create Flash animated demos. Used Toad to analyze the Oracle relational database.
+
+# Pointserve
+- company: Verisign
+  position: Senior Technical Writer
+  location: Austin, TX
+  duration: Aug 2004 &mdash; Oct 2004
+  summary: Used FrameMaker to maintain user guides and develop an XML API reference guides. Used XMLSpy to update What’s This? Help.
+
+# USNG
+- company: United States National Guard
+  position: Senior Technical Writer
+  location: San Antonio, TX
+  duration: May 2004 &mdash; Aug 2004
+  summary: Used FrameMaker to maintain user guides and develop an XML API reference guides. Used XMLSpy to update What’s This? Help.
