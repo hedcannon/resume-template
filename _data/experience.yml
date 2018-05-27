@@ -1,19 +1,19 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Sabre
+- company: Sabre Corporation
+  position: Sr Technical Writer
+  duration: May 2017 &mdash; May 2018
+  summary:  Sabre Hospitality Solutions Integration provides a SaaS platform for distribution, operations and marketing solutions to the hotel industry.<p><p>In a mixed Agile-Waterfall environment, oversaw the conversion of the 1000s of pages of the documentation library from Microsoft Word to Madcap Flare for output to PDF and dynamic HTML. Created a framework for maintaining the documentation across the team of writers using SVN Subversion as the revision repository. Trained the writers team to edit and maintain documentation in Flare. Maintained SOAP API service documentation for three local development teams and a remote team in Krakow, Poland. Maintained legacy documentation in Sharepoint.	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Ooyala
+- company: Ooyala Inc
+  position: Sr Technical Writer, Dallas Office
+  duration:  Dec. 2016 &mdash; Mar 2017
+  summary: Ooyala delivers a comprehensive suite of video workflow, publishing, analytics and advertising products via personalized delivery of streaming audio, video, and other media over the Internet.<p><p>As the only on-site writer in Dallas on a large globally located Documentation team in an Agile environment, used Drupal, Oxygen, Word, Git, and JIRA to create user and development documentation for the live streaming-VOD platform that merged the capabilities of Azure, Elemental, and Akamai applications for ingestion, transcoding, repackaging, and CDN. Wrote architecture and user documentation for Facebook, Twitch, and Periscope syndication. Wrote in-house documentation for the FTP ingestion/transcoding interface.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Farm Credit Bank
+- company: Farm Credit Bank of Texas
+  position: Sr Business Analyst
+  duration:   May, 2016  &mdash; Oct 2016
+  summary: Farm Credit Bank of Texas is a non-profit providing technical services to banking associates.<p><p>Performed business analysis and process modeling for infrastructure and legacy conversion projects. Used Enterprise Architect and Bizagi to create BPMN 2.0 diagrams. Used Microsoft TFS and SharePoint to maintain SDLC process documentation. Used Excel to create test cases. Used Word to create requirements and specification documentation.
