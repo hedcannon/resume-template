@@ -2,24 +2,28 @@
 # Sabre
 - company: Sabre Corporation
   position: Sr Technical Writer
+  location: Southlake, TX
   duration: May 2017 &mdash; May 2018
   summary:  Sabre Hospitality Solutions Integration provides a SaaS platform for distribution, operations and marketing solutions to the hotel industry.<p><p>In a mixed Agile-Waterfall environment, oversaw the conversion of the 1000s of pages of the documentation library from Microsoft Word to Madcap Flare for output to PDF and dynamic HTML. Created a framework for maintaining the documentation across the team of writers using SVN Subversion as the revision repository. Trained the writers team to edit and maintain documentation in Flare. Maintained SOAP API service documentation for three local development teams and a remote team in Krakow, Poland. Maintained legacy documentation in Sharepoint.
 
 # Ooyala
 - company: Ooyala Inc
   position: Sr Technical Writer, Texas Office
+  location: Frisco, TX
   duration:  Dec. 2016 &mdash; Mar 2017
   summary: Ooyala delivers a comprehensive suite of video workflow, publishing, analytics and advertising products via personalized delivery of streaming audio, video, and other media over the Internet.<p><p>As the only on-site writer in Dallas on a large globally located Documentation team in an Agile environment, used Drupal, Oxygen, Word, Git, and JIRA to create user and development documentation for the live streaming-VOD platform that merged the capabilities of Azure, Elemental, and Akamai applications for ingestion, transcoding, repackaging, and CDN. Wrote architecture and user documentation for Facebook, Twitch, and Periscope syndication. Wrote in-house documentation for the FTP ingestion/transcoding interface.
 
 # Farm Credit Bank
 - company: Farm Credit Bank of Texas
   position: Sr Business Analyst
+  location: Austin, TX
   duration:   May, 2016  &mdash; Oct 2016
   summary: Farm Credit Bank of Texas is a non-profit providing technical services to banking associates.<p><p>Performed business analysis and process modeling for infrastructure and legacy conversion projects. Used Enterprise Architect and Bizagi to create BPMN 2.0 diagrams. Used Microsoft TFS and SharePoint to maintain SDLC process documentation. Used Excel to create test cases. Used Word to create requirements and specification documentation.
 
 # Mozido
 - company: Mozido
   position: Lead Technical Writer/Agile Product Owner of Documentation
+  location: Austin, TX
   duration:   Dec 2014  &mdash; Apr 2016
   summary: Mozido maintains a secure J2EE SaaS API platform (SOAP and REST) to facilitate money transfers between financial entities and private persons via mobile apps and websites.<p><p>As the Agile Product Owner of Documentation, supervised and led a documentation team using Microsoft Word, Confluence and JIRA, and Madcap Flare to develop SOAP and REST API reference documentation (XML and JSON commands), and SDK-related documentation for dynamic HTML, RAML, and PDF. Reviewed the Java code-base in Git and the database in Bamboo to assist creating documentation content. Redesigned the product documentation. Participated in overhauling project processes for increased efficiency and productivity. Reorganized team priorities to clear a major documentation backlog. Used Confluence and JIRA to manage team communication. Assisted in development of proposals on short time-lines. Developed process documentation for Delivery development teams. Helped design a Git-to-Webserver system to host and maintain HTML5 documentation in Confluence and for external users. Used Git Bash and SourceTree to manage Git repositories. Used Eclipse to review code base. Built Kanban board with swimlanes in JIRA and wrote epics and user stories to manage writer activity. Acted as a resource for other writers.
 
@@ -27,5 +31,33 @@
 - company: Icontrol Networks
   position: Lead Technical Writer
   location: Austin, TX
-  duration:   Mar 2009  &mdash; Dec 2014
+  duration: Mar 2009  &mdash; Dec 2014
   summary: The Icontrol system uses an Android hub device that communicates with redundant, geo-replicated SaaS server/database platforms over both cellular networks and the Internet. <p><p>The hub is located at a customer premises and manages dozens of local, third-party intelligent devices (multiple manufacturers) via either ZigBee or Z-Wave RF. For example, devices ↔ hub ↔ J2EE servers. Alternately, Internet of Things devices are integrated with the hub via the Cloud. For example, devices ↔ cloud ↔ J2EE servers ↔ hub.  Users manage the hub directly using a touchscreen or remotely using their computers or mobile devices. <p><p>In an Agile environment, supervised and led a documentation team performing technical writing and business analysis using Microsoft Word and Madcap Flare (Windows PCs) to develop system architecture documents, network architecture documents, REST API reference, SDK-related documentation, and user guides, hardware installation guides, server installation guides, server operations manuals, a database dictionary, and user documentation. Used Visio for business process modeling. Used Confluence to manage development architecture documentation.  Used Photoshop, Illustrator, and Visio to create technical illustrations. Developed documentation in Word, PDF, and HTML5 format. Used SVN for version control.
+
+# TXDOT
+- company: Texas Department of Transportation/Promiles
+  position: Senior Technical Writer
+  location: Austin, TX
+  duration: Mar 2007  &mdash; Feb 2009
+  summary: Used Microsoft Word to develop user documentation for the TXPROS Restriction Manager and Route Tuning tool via a SaaS platform. Aided in the development of RFP responses. Used Dreamweaver and RoboHelp to develop online help for web-based vehicle permit and registration applications. Used Microsoft SharePoint and third-party wiki platform to develop system architecture and knowledge-base collaborative documentation. Converted reference documentation to wiki format that was linked to the training documentation to ease parallel updating.
+
+# Verizon
+- company: Verizon
+  position: Senior Technical Writer
+  location: Irving, TX
+  duration: Feb  &mdash; May 2007
+  summary: Used Word, Acrobat, RoboHelp, Dreamweaver, and Javascript to develop a user training manual, online help, and user guide for a modified Microsoft CMS lifecycle document management application.
+
+# Dow Jones
+- company: Dow Jones
+  position: Senior Technical Writer
+  location: Princeton, NJ
+  duration: Nov. 2006 &mdash; Jan 2007
+  summary: Used RoboHelp, Dreamweaver, Javascript, .Net Webservice Studio, and XMLSpy to enhance online API (SOAP & REST) documentation for a SaaS platform to search and compare the earnings and organization information of public companies. Developed SDK documentation for implementing multiple APIs in concert.
+
+# WDW
+- company: Walt Disney World IT Development
+  position: Senior Technical Writer/Business Analyst
+  location: Lake Buena Vista, FL
+  duration: Jun 2005 &mdash; Nov 2007
+  summary: Used Word, RoboHelp, and SharePoint wiki to develop system design, requirements, and user/training documentation. Developed triage documentation in wiki format. Developed user/training documentation for a modified SmarTeam web-based document lifecycle management application designed to be used free-standing and also integrated into AutoCAD and SolidWorks. Developed complete system specification and technical support documentation in online format for an online training management & presentation system. Wrote user-level analysis and description of the complete UI of a new hotel & resort booking & revenue management system. Created requirements analysis reports and UML diagrams for a system to manage guest participation in entertainment activities. Developed system specification documentation for an employee time management system. Developed technical support documentation for a restaurant table management system. Wrote test plans for resort/park-wide Lost & Found system for Hong Kong Disneyland.
