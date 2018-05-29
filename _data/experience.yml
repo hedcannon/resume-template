@@ -2,29 +2,21 @@
 
 # Sabre
 - company: Sabre Corporation
-  position: Sr Technical Writer
-  location: Southlake, TX
-  duration: May 2017 &mdash; May 2018
-  summary:  Sabre Hospitality Solutions Integration provides a SaaS platform for distribution, operations and marketing solutions to the hotel industry.<p><p>In a mixed Agile-Waterfall environment, oversaw the conversion of the 1000s of pages of the documentation library from Microsoft Word to Madcap Flare for output to PDF and dynamic HTML. Created a framework for maintaining the documentation across the team of writers using SVN Subversion as the revision repository. Trained the writers team to edit and maintain documentation in Flare. Maintained SOAP API service documentation for three local development teams and a remote team in Krakow, Poland. Maintained legacy documentation in Sharepoint.
-
-
-# Sabre
-- company: Sabre Corporation
-  position: Sr Technical Writer
+  position: Senior Technical Writer
   location: Southlake, TX
   duration: May 2017 &mdash; May 2018
   summary:  Sabre Hospitality Solutions Integration provides a SaaS platform for distribution, operations and marketing solutions to the hotel industry.<p><p>In a mixed Agile-Waterfall environment, oversaw the conversion of the 1000s of pages of the documentation library from Microsoft Word to Madcap Flare for output to PDF and dynamic HTML. Created a framework for maintaining the documentation across the team of writers using SVN Subversion as the revision repository. Trained the writers team to edit and maintain documentation in Flare. Maintained SOAP API service documentation for three local development teams and a remote team in Krakow, Poland. Maintained legacy documentation in Sharepoint.
 
 # Ooyala
 - company: Ooyala Inc
-  position: Sr Technical Writer, Texas Office
+  position: Senior Technical Writer, Texas Office
   location: Frisco, TX
   duration:  Dec 2016 &mdash; Mar 2017
   summary: Ooyala delivers a comprehensive suite of video workflow, publishing, analytics and advertising products via personalized delivery of streaming audio, video, and other media over the Internet.<p><p>As the only on-site writer in Dallas on a large globally located Documentation team in an Agile environment, used Drupal, Oxygen, Word, Git, and JIRA to create user and development documentation for the live streaming-VOD platform that merged the capabilities of Azure, Elemental, and Akamai applications for ingestion, transcoding, repackaging, and CDN. Wrote architecture and user documentation for Facebook, Twitch, and Periscope syndication. Wrote in-house documentation for the FTP ingestion/transcoding interface.
 
-# Farm Credit Bank
+# FCBT
 - company: Farm Credit Bank of Texas
-  position: Sr Business Analyst
+  position: Senior Business Analyst
   location: Austin, TX
   duration: May, 2016  &mdash; Oct 2016
   summary: Farm Credit Bank of Texas is a non-profit providing technical services to banking associates.<p><p>Performed business analysis and process modeling for infrastructure and legacy conversion projects. Used Enterprise Architect and Bizagi to create BPMN 2.0 diagrams. Used Microsoft TFS and SharePoint to maintain SDLC process documentation. Used Excel to create test cases. Used Word to create requirements and specification documentation.
